@@ -6,3 +6,4 @@ var a ;
 a=1
 a="charan"
 console.log(typeof(a));
+
